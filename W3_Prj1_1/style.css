@@ -1,0 +1,16 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10px;
+}
+
+/* th, td{
+   padding-right: 20px;
+} */
+
+#current{
+    margin-top: 5%;
+}
+
+#otherTimezones{
+    margin-top: 10%;
+}
